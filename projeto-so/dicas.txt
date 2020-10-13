@@ -1,0 +1,17 @@
+sequencia de referencia -> vetor (lista numerica)
+outro vetor (com o numero de casas desejado) (exemplo 3 casas)
+7| 1| 9| 3| 8| 9| 4| 8| 4| 9| 4
+
+7	
+71
+719
+319
+389
+389
+384
+384
+384
+984
+984
+
+(1)(2)(3)(4)(5)(6)(7)
